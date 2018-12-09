@@ -1,0 +1,11 @@
+{
+  "name": "async-json-parser",
+  "version": "1.0.0",
+  "description": "Async JSON parse and stringify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Bernal",
+  "license": "ISC"
+}
