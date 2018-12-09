@@ -1,8 +1,9 @@
 {
-  "name": "async-json-parser",
+  "name": "@iridium/async-json-parser",
   "version": "1.0.0",
   "description": "Async JSON parse and stringify",
   "main": "index.js",
+  "public": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
